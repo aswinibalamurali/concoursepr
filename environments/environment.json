@@ -1,7 +1,7 @@
 {
  "environment": "sandbox",
  "current-version" : {
-   "version": "${BUILD_NAME}",
-   "date-verified": "20201029171053"
+   "version": "6.7.0",
+   "date-verified": "20201029171439"
    }
 }
